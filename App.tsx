@@ -1,0 +1,1 @@
+// Static Site Mode: App.tsx not in use.

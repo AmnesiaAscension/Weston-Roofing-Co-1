@@ -1,0 +1,1 @@
+// Static Site Mode: index.tsx not in use.
